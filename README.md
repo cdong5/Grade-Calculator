@@ -1,6 +1,6 @@
 # Grade-Calculator
 Calculate average by entering grades and weight
-Made using tkinter libray in python
+Made using tkinter library in python
 
 ------------------
 How to use
