@@ -13,6 +13,6 @@ Made using tkinter library in python
 ------------------
 # Future Implications
 1) Add multiple classes  
-  Add a side plus menu
+   - [ ] Add a side plus menu
 2) Save classes and grades for future uses  
-  Add drop down menu with multiple options
+   - [ ] Add drop down menu with multiple options
